@@ -23,6 +23,7 @@ $white __      __      ___          _        __   $yellow Goblok $red
 $imp$green Usage : php wpbrute.php
 $imp$white Give Username ( Default Admin )
 $imp$yellow File Wordlist ( TXT )
+$imp$lightblue Site Give With wp-login.php
 
 ";
 echo $banner1;
